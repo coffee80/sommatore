@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sommatore';
+
+  a:number = 0;
+  b:number = 0;
+
+
 }
